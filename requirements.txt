@@ -1,0 +1,4 @@
+opencv-python==4.11.0.86
+torch==2.7.0
+ultralytics==8.3.135 
+shapely==2.1.0 
