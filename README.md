@@ -10,8 +10,14 @@ Navigate to the root directory of the project
 Run the following:
 
 python3.13 -m venv venv
+
+
 source venv/bin/activate
+
+
 pip install --upgrade pip
+
+
 pip install -r requirements.txt
 
 Edit jaywalk_detector and input the test video you would like to analyze. The datasets I have included are night_example.mp4 and day_example.mp4.
